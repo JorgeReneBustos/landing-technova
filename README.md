@@ -6,6 +6,6 @@ Landing page de ejemplo para mostrar mis habilidades de Frontend.
 Podés ver la landing page completa haciendo click [aquí](https://JorgeReneBustos.github.io/landing-technova/)
 
 ## Tecnologías
-- HTML5
-- CSS3
-- JavaScript
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,git,github" />
+</p>
